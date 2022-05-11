@@ -106,3 +106,6 @@ dist
 # Package file
 package-lock.json
 package.json
+
+# ETC.
+.DS_Store
